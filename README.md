@@ -16,3 +16,19 @@ This repository contains journey of learning C programming. The code is organize
 
 Clone the repository to your local machine:
 
+## How to Run?
+1. Download & Setup any C compiler software. (Eg. [Dev C++](https://sourceforge.net/projects/dev-cpp/files/))
+2. Open the `.c` program files with the C compiler software you have installed.
+
+## Get Specific Code
+1. Copy the c program code you want to run then paste it in your compiler and save the files as `<filename>.c`
+2. Run the program.
+
+
+## Error In Code?
+Although, we are upload the code by running & verifying at least one time so in any case if you found some error/bug then you can fix that and contribute in our code or you can simple create the issue in our repository.
+
+
+## Collaborators
+> [Diwas Atreya](https://github.com/diwasatreya), [Aman Regmi](https://github.com/Aman-1-1), [Hardik Ale](https://github.com/hardikale)
+
